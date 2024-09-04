@@ -2,7 +2,12 @@
 
 ## 1. Hello World
 
-Design and implement a program that displays the message “Hello World” when run.
+Design and implement a program that displays the message 
+
+```text
+Hello World
+This is my first Python program.
+```
 
 ## Implement your program
 
