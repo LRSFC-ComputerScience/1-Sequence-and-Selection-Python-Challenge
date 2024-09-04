@@ -18,6 +18,30 @@ How do you know whether your program works?
 ```text
 It will output "Hello world"
 ```
+### Help
+
+Follow these flowcharts to help with your code:
+
+#### Main program
+
+```mermaid
+  flowchart TD;
+      A[START]-->B[[OUTPUT]];
+      B-->C[END];
+```
+
+#### OUTOUT function
+
+```mermaid
+  flowchart TD;
+      A[OUTPUT]-->B[/output "Hello world"/];
+      B-->C[/output "This is my first Python program."/];
+      C-->D[END];
+```
+*If you require a little more help, use the following Parsons problem and move the statements into the correct sequence*
+
+Parsons problem: <https://time2code.today/parsons/programs/hello_world/program.html>
+
 
 ### Code
 
