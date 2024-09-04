@@ -27,16 +27,17 @@ Follow these flowcharts to help with your code:
 ```mermaid
   flowchart TD;
       A[START]-->B[[OUTPUT]];
-      B-->C[END];
+      B--->C[END];
 ```
 
 #### OUTOUT function
 
 ```mermaid
   flowchart TD;
-      A[OUTPUT]-->B[/output "Hello world"/];
+      A[Function OUTPUT] -->B[/output "Hello world"/];
       B-->C[/output "This is my first Python program."/];
       C-->D[END];
+
 ```
 *If you require a little more help, use the following Parsons problem and move the statements into the correct sequence*
 
